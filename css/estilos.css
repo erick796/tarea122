@@ -1,0 +1,23 @@
+body{
+    background-color: aquamarine;
+}
+h1{
+    color: brown;
+    text-align: center;
+}
+h2{
+    color: blueviolet;
+}
+p {
+    color: #333;  
+    font-size: 1.2em;  
+    margin-bottom: 15px;  
+    text-align: justify;  
+}
+.messi {
+    display: block;
+    margin: 0 auto;  /* Esto centrará la imagen */
+    max-width: 100%;  /* Esto asegurará que la imagen no exceda el ancho del contenedor */
+    height: auto;
+    border-radius: 10px;
+}
