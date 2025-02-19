@@ -1,0 +1,41 @@
+.div1 {
+    background-color: #FF5733;
+    padding: 70px;
+}
+
+.div2 {
+    background-color: #33FF57;
+    padding: 60px;
+}
+
+.div3 {
+    background-color: #3357FF;
+    padding: 50px;
+}
+
+.div4 {
+    background-color: #FF33A1;
+    padding: 40px;
+}
+
+.div5 {
+    background-color: #A133FF;
+    padding: 30px;
+}
+
+.div6 {
+    background-color: #FF8C33;
+    padding: 20px;
+}
+
+.div7 {
+    background-color: #33FFF4;
+    padding: 10px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+}
